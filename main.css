@@ -42,6 +42,9 @@ a {
   font-weight: 400;
   text-decoration: none;
 }
+b {
+  color: #b6b6b6;
+}
 a:hover {
   color: #ffeb9b;
 }
