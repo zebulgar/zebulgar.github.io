@@ -252,3 +252,18 @@ section #title .credits.right {
     display: none;
   }
 }
+
+/* Year sections in the Founders Fund portfolio table. */
+.portfolio-year th {
+  padding: 28px 10px 10px;
+  border-bottom: 2px solid #666;
+}
+.portfolio-year h4 {
+  margin: 0;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.portfolio-founders-fund tbody:first-of-type .portfolio-year th {
+  padding-top: 16px;
+}
+
